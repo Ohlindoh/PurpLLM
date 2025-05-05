@@ -1,0 +1,13 @@
+[tool.poetry]
+name = "purplllm-chatbot"
+version = "0.1.0"
+description = "Python-based chat bot front-end for PurpLLMm lab"
+authors = ["Your Name <you@example.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+fastapi = "^0.95.0"
+uvicorn = "^0.22.0"
+httpx = "^0.24.0"
+[tool.poetry.dev-dependencies]
+pytest = "^7.2.0"
