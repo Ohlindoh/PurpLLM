@@ -1,7 +1,7 @@
 [tool.poetry]
-name = "purplllm-defense"
+name = "PurpLLM-defense"
 version = "0.1.0"
-description = "Python-based guardrail proxy for PurpLLMm lab"
+description = "Python-based guardrail proxy for PurpLLM lab"
 authors = ["Your Name <you@example.com>"]
 
 [tool.poetry.dependencies]

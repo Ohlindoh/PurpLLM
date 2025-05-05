@@ -1,7 +1,7 @@
 [tool.poetry]
-name = "purplllm-chatbot"
+name = "PurpLLM-chatbot"
 version = "0.1.0"
-description = "Python-based chat bot front-end for PurpLLMm lab"
+description = "Python-based chat bot front-end for PurpLLM lab"
 authors = ["Your Name <you@example.com>"]
 
 [tool.poetry.dependencies]
